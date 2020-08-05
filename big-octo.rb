@@ -1,0 +1,3 @@
+class Octopus
+
+end
